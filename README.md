@@ -7,8 +7,7 @@ Our project focuses on identifying crucial intervention points for reducing gree
 The SQL operations for this project are executed on the UBC CS Oracle database server. The teaching team can use the following credentials to log in and perform the necessary SQL operations:
 
 - SSH Server: remote.students.cs.ubc.ca
-- SSH Username: `cyz1016`
-- SSH Password: Zcy020309@
+
 
 ### SSH and SQL*Plus Login Procedure
 1. Open a terminal or SSH client.
